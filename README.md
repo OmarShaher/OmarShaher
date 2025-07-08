@@ -7,8 +7,8 @@
 
 - 👯 I’m looking to collaborate on ****Web or mobile app projects** — Especially apps with real-world impact or unique tech challenges**
 
-- 💬 Ask me about ****Flutter**, **Firebase**, **YOLOv11**, **Python**, **PostgreSQL****
-
+- 💬 Ask me about ****Flutter**, **Firebase**, **YOLOv11**, *Cybersecurity Fundamentals**
+  
 - 📫 How to reach me **omarshaher2011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
