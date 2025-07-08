@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Shaher</h1>
 <h3 align="center">A passionate full-stack and mobile developer</h3>
 
-- 🔭 I’m currently working on **Blind Assistance System— An AI-powered wearable system to assist visually impaired users using YOLOv11, Flutter, and Raspberry Pi**
+- 🔭 Currently exploring backend development and cybersecurity, with a focus on building secure and efficient applications.
 
 - 🌱 I’m currently learning ****Advanced Flutter animations**, **Node.js for backend APIs****
 
